@@ -1,6 +1,6 @@
 # NYC_Apartments_Tableau-viz
 
-![Screenshot](https://raw.github.com/{mehaksanghi}/{NYC_Apartments_Tableau-viz}/{Screenshot (27).png})
+![Screenshot](https://raw.github.com/{mehaksanghi}/{NYC_Apartments_Tableau-viz/Screenshot (26).png})
 
 ![Screenshot](Screenshot (27).png)
 
