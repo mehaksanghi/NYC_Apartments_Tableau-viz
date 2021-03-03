@@ -1,5 +1,5 @@
 # NYC_Apartments_Tableau-viz
 
-![Screenshot](screenshot (26).png)
-![Screenshot](screenshot (27).png)
-![Screenshot](screenshot (28).png)
+![Screenshot](Screenshot (26).png)
+![Screenshot](Screenshot (27).png)
+![Screenshot](Screenshot (28).png)
