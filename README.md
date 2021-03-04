@@ -1,7 +1,7 @@
 # NYC_Apartments_Tableau-viz
 
-![Screenshot](Page 1.png)
+![Screenshot](https://github.com/mehaksanghi/NYC_Apartments_Tableau-viz/blob/master/src/images/Page 1.png)
 
-![Screenshot](Page 2.png)
+![Screenshot](https://github.com/mehaksanghi/NYC_Apartments_Tableau-viz/blob/master/src/images/Page 2.png)
 
-![Screenshot](Page 3.png)
+![Screenshot](https://github.com/mehaksanghi/NYC_Apartments_Tableau-viz/blob/master/src/images/Page 3.png)
